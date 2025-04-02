@@ -48,3 +48,13 @@ Run ESLint to check for code quality by executing npm run lint.
 ## License
 
 This project is licensed under the MIT License.
+
+## Figma
+
+https://www.figma.com/design/fxDMJSLPqDc2zhwtBDsTDO/VOIP-Manager?node-id=0-1&t=9zuka0iQqkkUi8k5-1
+
+##Screenshot
+
+![image](https://github.com/user-attachments/assets/0a1f161a-aacc-4379-880e-5adcbfba0392)
+
+
